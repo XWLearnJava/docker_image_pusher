@@ -8,4 +8,4 @@
 #mysql:8.0.30
 #redis:7.0.10
 #nacos/nacos-server:v2.2.2
-mongo:7.0.0
+mongo:7.1.0
